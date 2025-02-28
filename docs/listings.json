@@ -2,8 +2,16 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/post-with-code/index.html",
-      "/posts/welcome/index.html"
+      "/posts/250226-1-Plots-3.html",
+      "/posts/250226-3-Plots-5.html",
+      "/posts/250226-2-Plots-4.html",
+      "/posts/250225-5-EPT-\bTGCN.html",
+      "/posts/250225-4-EPT-GConvLSTM.html",
+      "/posts/250225-2-EPT-GConvGRU.html",
+      "/posts/250225-6-Plots-0.html",
+      "/posts/250225-6-Plots-1.html",
+      "/posts/250225-3-EPT-DCRNN.html",
+      "/posts/250225-6-Plots-2.html"
     ]
   }
 ]
